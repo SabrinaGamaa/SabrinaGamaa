@@ -23,16 +23,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" />
 </p>
 
-
-## 📊 Estatísticas do GitHub  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabrinaGamaa&show_icons=true&theme=dark" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaGamaa&layout=compact&langs_count=6&theme=dark" width="400px" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SabrinaGamaa&theme=dark" width="400px" />
-
-
-</p>
-
 ## 📌 Projetos Destacados  
 
 🔹 [**Conta Bancária**](https://github.com/SabrinaGamaa/conta-bancaria)  

@@ -25,15 +25,13 @@
 
 ## 📌 Projetos Destacados  
 
-🔹 [**Conta Bancária**](https://github.com/SabrinaGamaa/conta-bancaria)  
-📝 Simulação de uma conta bancária com CRUD e autenticação.  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-
+🔹 [**Conta Bancária**](https://github.com/SabrinaGamaa/Cep)  
+📝 Consulta de CEP e Endereços.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   
 🔹 [**Meu Portfólio**](https://sabrina-gama-portifolio.onrender.com)  
 🌐 Portfólio pessoal usando Flask + HTML & CSS.
 ##
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQHd_-mJPC3PNQ/feedshare-shrink_800/B4DZW4eIijHkAk-/0/1742556662753?e=1745452800&v=beta&t=0MJohSH17q5PveawN6PrHyZvu2TMOBWrxkHp856ZsCo"  /></img>
+<img src="https://media.licdn.com/dms/image/v2/D4D22AQHd_-mJPC3PNQ/feedshare-shrink_800/B4DZW4eIijHkAk-/0/1742556662753?e=1745452800&v=beta&t=0MJohSH17q5PveawN6PrHyZvu2TMOBWrxkHp856ZsCo"  width="400px"/></img>
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

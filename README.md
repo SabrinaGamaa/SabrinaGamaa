@@ -5,7 +5,7 @@
 
 ## 💻 Sobre mim  
 - 🔧 Atualmente, estou desenvolvendo projetos de **back-end com Python e Java**.  
-- 🌱 Estudando **Java, C++, Python e JavaScript**.  
+- 🌱 Estudando **Java e Python**.  
 - 👯️ Busco colaborar em **projetos de desenvolvimento back-end e análise de dados**.  
 - 🤔 Aberta a novas oportunidades e conexões!  
 - ⚡ Curiosidade: Amo tecnologia e sempre estou explorando novas ferramentas!  

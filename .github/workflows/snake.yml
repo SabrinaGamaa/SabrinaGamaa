@@ -1,0 +1,36 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: SabrinaGamaa
+          outputs: |
+            ./dist/snake.svg
+
+      - name: Commit snake.svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Atualiza animação da cobrinha"
+          add: "dist/snake.svg"
+
+      - name: Push to output branch
+        run: |
+          git fetch origin
+          git switch -c output
+          git checkout output
+          git add dist/snake.svg
+          git commit -m "Atualiza snake.svg"
+          git push origin output --force

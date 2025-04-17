@@ -87,5 +87,6 @@ Já desenvolvi sistemas de controle de estoque, sites com Flask com autenticaç�
 
 ###  
 
-<img src="https://github.com/SabrinaGamaa/SabrinaGamaa/blob/output/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SabrinaGamaa/SabrinaGamaa/output/dist/snake.svg" alt="Snake animation" />
+
 

@@ -9,8 +9,9 @@ Já desenvolvi sistemas de controle de estoque, sites com Flask com autenticaç�
 
 ##
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SabrinaGamaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabrinaGamaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SabrinaGamaa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SabrinaGamaa&locale=pt-br&mode=weekly&theme=darcula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabrinaGamaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true&custom_title=Linguagens" height="150" alt="languages graph"  />
 </div> 
 <br></br>
 <p align="center">

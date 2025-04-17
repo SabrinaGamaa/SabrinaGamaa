@@ -1,4 +1,6 @@
-# <p align="center"> Olá! Eu sou a Sabrina Gama e esse é meu Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></p> 
+# <p align="center"> Olá! Eu sou a Sabrina Gama e esse é meu Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="gif de saudação"></p> 
+
+ 
 ## Sobre mim  
 Sou uma desenvolvedora em formação, dedicada e em constante evolução.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco prático em **Python, Java, JavaScript e C++**.
@@ -9,7 +11,6 @@ Já desenvolvi sistemas de controle de estoque, sites com Flask com autenticaç�
 
 ##
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SabrinaGamaa&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=SabrinaGamaa&locale=pt-br&mode=weekly&theme=darcula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SabrinaGamaa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=true&custom_title=Linguagens" height="150" alt="languages graph"  />
 </div> 
@@ -24,7 +25,6 @@ Já desenvolvi sistemas de controle de estoque, sites com Flask com autenticaç�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50px" hspace="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50px" hspace="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" hspace="10" />
-  
 </p>
 
 ##
@@ -87,6 +87,7 @@ Já desenvolvi sistemas de controle de estoque, sites com Flask com autenticaç�
 
 ###  
 
-<img src="https://raw.githubusercontent.com/SabrinaGamaa/SabrinaGamaa/output/dist/snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <img src="https://github.com/SabrinaGamaa/SabrinaGamaa/blob/output/snake.svg" alt="snake" />
+</p>
 

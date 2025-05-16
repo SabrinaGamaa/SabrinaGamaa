@@ -2,12 +2,9 @@
 
  
 ## Sobre mim  
-Sou uma desenvolvedora em formação, dedicada e em constante evolução.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco prático em **Python, Java, JavaScript e C++**.
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade profissional na área de tecnologia. Desde o início da minha formação, venho me dedicando intensamente a desenvolver minhas habilidades práticas por meio de projetos pessoais, cursos e estudos direcionados, especialmente com Python, Flask, SQL e Java.
 
-Tenho grande interesse em desenvolvimento **back-end**, com ênfase na criação de sistemas, APIs, automações e bots com Python.  
-No meu GitHub, compartilho projetos que refletem meu compromisso com **boas práticas de código**, **aprendizado contínuo** e **aplicação real do conhecimento**.  
-Já desenvolvi sistemas de controle de estoque, sites com Flask com autenticação via banco de dados, além de scripts de automação e análise de dados.
+Já criei projetos como um sistema de controle de estoque com gestão de insumos e um site com autenticação de usuários usando Flask e banco de dados, que me permitiram aplicar na prática conceitos de back-end, segurança e organização de dados. Além disso, tenho familiaridade com bibliotecas como Pandas, Plotly, Scikit-learn e ferramentas de versionamento como Git.
 
 ##
 <div align="center">
@@ -41,7 +38,7 @@ Já desenvolvi sistemas de controle de estoque, sites com Flask com autenticaç�
 
 ### [ 🌐 Meu Portfólio](https://sabrina-gama-portifolio.onrender.com)   
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQHd_-mJPC3PNQ/feedshare-shrink_800/B4DZW4eIijHkAk-/0/1742556662753?e=1745452800&v=beta&t=0MJohSH17q5PveawN6PrHyZvu2TMOBWrxkHp856ZsCo" width="500px"/>
+<!--   <img src="https://media.licdn.com/dms/image/v2/D4D22AQHd_-mJPC3PNQ/feedshare-shrink_800/B4DZW4eIijHkAk-/0/1742556662753?e=1745452800&v=beta&t=0MJohSH17q5PveawN6PrHyZvu2TMOBWrxkHp856ZsCo" width="500px"/> -->
 </div>
 <br>
 
@@ -51,7 +48,7 @@ Já desenvolvi sistemas de controle de estoque, sites com Flask com autenticaç�
 
 ### [ 🚨 API-alert](https://github.com/SabrinaGamaa/API-alert)  
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQHxvHTPyuAjSw/feedshare-shrink_2048_1536/B4DZX2vmZ.G8As-/0/1743601428862?e=1746662400&v=beta&t=2NKeVOB4CsBuanzajFv0yVlWlFWyKjE6FCBVvnxwPbk" height="500px"/>  
+<!--   <img src="https://media.licdn.com/dms/image/v2/D4D22AQHxvHTPyuAjSw/feedshare-shrink_2048_1536/B4DZX2vmZ.G8As-/0/1743601428862?e=1746662400&v=beta&t=2NKeVOB4CsBuanzajFv0yVlWlFWyKjE6FCBVvnxwPbk" height="500px"/>   -->
 </div>
 <br>
 
@@ -61,7 +58,7 @@ Já desenvolvi sistemas de controle de estoque, sites com Flask com autenticaç�
 
 ### [ 🤖 API-deriv](https://github.com/SabrinaGamaa/API-deriv)  
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFgQuBnuUOXPg/feedshare-shrink_2048_1536/B4DZXTtk24HIAs-/0/1743013695398?e=1746662400&v=beta&t=kqdgizrHnSUXS08mBM0_vkeZx-J7pcl-YMljtneeJSA" width="500px" />  
+<!--   <img src="https://media.licdn.com/dms/image/v2/D4D22AQFgQuBnuUOXPg/feedshare-shrink_2048_1536/B4DZXTtk24HIAs-/0/1743013695398?e=1746662400&v=beta&t=kqdgizrHnSUXS08mBM0_vkeZx-J7pcl-YMljtneeJSA" width="500px" />   -->
 <br>
   
 </div>

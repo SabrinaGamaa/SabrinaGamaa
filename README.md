@@ -1,7 +1,6 @@
 # <p align="center"> Olá! Eu sou a Sabrina Gama e esse é meu Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="gif de saudação"></p> 
 
  
-## Sobre mim  
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade profissional na área de tecnologia. Desde o início da minha formação, venho me dedicando intensamente a desenvolver minhas habilidades práticas por meio de projetos pessoais, cursos e estudos direcionados, especialmente com Python, Flask, SQL e Java.
 
 Já criei projetos como um sistema de controle de estoque com gestão de insumos e um site com autenticação de usuários usando Flask e banco de dados, que me permitiram aplicar na prática conceitos de back-end, segurança e organização de dados. Além disso, tenho familiaridade com bibliotecas como Pandas, Plotly, Scikit-learn e ferramentas de versionamento como Git.
@@ -24,29 +23,20 @@ Já criei projetos como um sistema de controle de estoque com gestão de insumos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" hspace="10" />
 </p>
 
-##
+### [ 🔗 Meu Portfólio](https://sabrina-gama-portifolio.onrender.com)   
+<br>
 
-### [ 📝 CEP e Endereços](https://github.com/SabrinaGamaa/Cep) 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFmKy7DY7Og7w/feedshare-shrink_800/B4DZWz2YO.GcAg-/0/1742479131997?e=1747872000&v=beta&t=xWzcwispc0LutO5r9GV_ON-6Uf-4g9oJOBycbHD9HiE" width="400px"/>
-</div>
+> Tecnologias: `Flask` | `HTML` | `CSS`
+
+##
+### [ 🔗 CEP e Endereços](https://github.com/SabrinaGamaa/Cep) 
 <br>
 
 > Tecnologias: `Python` | `Requests API` 
 
 ##
 
-### [ 🌐 Meu Portfólio](https://sabrina-gama-portifolio.onrender.com)   
-<div align="center">
-<!--   <img src="https://media.licdn.com/dms/image/v2/D4D22AQHd_-mJPC3PNQ/feedshare-shrink_800/B4DZW4eIijHkAk-/0/1742556662753?e=1745452800&v=beta&t=0MJohSH17q5PveawN6PrHyZvu2TMOBWrxkHp856ZsCo" width="500px"/> -->
-</div>
-<br>
-
-> Tecnologias: `Flask` | `HTML` | `CSS`
-
-##
-
-### [ 🚨 API-alert](https://github.com/SabrinaGamaa/API-alert)  
+### [ 🔗 API-alert](https://github.com/SabrinaGamaa/API-alert)  
 <div align="center">
 <!--   <img src="https://media.licdn.com/dms/image/v2/D4D22AQHxvHTPyuAjSw/feedshare-shrink_2048_1536/B4DZX2vmZ.G8As-/0/1743601428862?e=1746662400&v=beta&t=2NKeVOB4CsBuanzajFv0yVlWlFWyKjE6FCBVvnxwPbk" height="500px"/>   -->
 </div>
@@ -56,7 +46,7 @@ Já criei projetos como um sistema de controle de estoque com gestão de insumos
 
 ##
 
-### [ 🤖 API-deriv](https://github.com/SabrinaGamaa/API-deriv)  
+### [ 🔗 API-deriv](https://github.com/SabrinaGamaa/API-deriv)  
 <div align="center">
 <!--   <img src="https://media.licdn.com/dms/image/v2/D4D22AQFgQuBnuUOXPg/feedshare-shrink_2048_1536/B4DZXTtk24HIAs-/0/1743013695398?e=1746662400&v=beta&t=kqdgizrHnSUXS08mBM0_vkeZx-J7pcl-YMljtneeJSA" width="500px" />   -->
 <br>

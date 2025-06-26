@@ -10,7 +10,7 @@ Já criei projetos como um sistema de controle de estoque com gestão de insumos
 - 🔗 [Sistema de Controle de Estoque (Flask)](https://sabrina-gama-portifolio.onrender.com/projeto/python/controle-estoque)
 - 🔗 [API de alerta de terremotos via Telegram/SMS](https://github.com/SabrinaGamaa/API-alert)
 - 🔗 [Bot de Trading com WebSocket](https://github.com/SabrinaGamaa/API-deriv)
-- 🔗 [Sistema com GUI em Java (A3)](https://github.com/SabrinaGamaa)
+- 🔗 [Sistema com GUI em Java (A3)](https://github.com/SabrinaGamaa/A3-Academia)
 
 ## 🎓 Formação
 

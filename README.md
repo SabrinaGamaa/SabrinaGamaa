@@ -5,6 +5,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou em busca da minh
 
 Já criei projetos como um sistema de controle de estoque com gestão de insumos e um site com autenticação de usuários usando Flask e banco de dados, que me permitiram aplicar na prática conceitos de back-end, segurança e organização de dados. Além disso, tenho familiaridade com bibliotecas como Pandas, Plotly, Scikit-learn e ferramentas de versionamento como Git.
 
+## 📌 Projetos em destaque
+
+- 🔗 [Sistema de Controle de Estoque (Flask)](https://sabrina-gama-portifolio.onrender.com/projeto/python/controle-estoque)
+- 🔗 [API de alerta de terremotos via Telegram/SMS](https://github.com/SabrinaGamaa/API-alert)
+- 🔗 [Bot de Trading com WebSocket](https://github.com/SabrinaGamaa/API-deriv)
+- 🔗 [Sistema com GUI em Java (A3)](https://github.com/SabrinaGamaa)
+
+## 🎓 Formação
+
+- Tecnólogo em Análise e Desenvolvimento de Sistemas – UniSociesc (1º semestre)
+
 ##
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SabrinaGamaa&locale=pt-br&mode=weekly&theme=darcula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
@@ -22,40 +33,6 @@ Já criei projetos como um sistema de controle de estoque com gestão de insumos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50px" hspace="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" hspace="10" />
 </p>
-
-### [ 🔗 Meu Portfólio](https://sabrina-gama-portifolio.onrender.com)   
-<br>
-
-> Tecnologias: `Flask` | `HTML` | `CSS`
-
-##
-### [ 🔗 CEP e Endereços](https://github.com/SabrinaGamaa/Cep) 
-<br>
-
-> Tecnologias: `Python` | `Requests API` 
-
-##
-
-### [ 🔗 API-alert](https://github.com/SabrinaGamaa/API-alert)  
-<div align="center">
-<!--   <img src="https://media.licdn.com/dms/image/v2/D4D22AQHxvHTPyuAjSw/feedshare-shrink_2048_1536/B4DZX2vmZ.G8As-/0/1743601428862?e=1746662400&v=beta&t=2NKeVOB4CsBuanzajFv0yVlWlFWyKjE6FCBVvnxwPbk" height="500px"/>   -->
-</div>
-<br>
-
-> Tecnologias: `Python` | `Requests API`
-
-##
-
-### [ 🔗 API-deriv](https://github.com/SabrinaGamaa/API-deriv)  
-<div align="center">
-<!--   <img src="https://media.licdn.com/dms/image/v2/D4D22AQFgQuBnuUOXPg/feedshare-shrink_2048_1536/B4DZXTtk24HIAs-/0/1743013695398?e=1746662400&v=beta&t=kqdgizrHnSUXS08mBM0_vkeZx-J7pcl-YMljtneeJSA" width="500px" />   -->
-<br>
-  
-</div>
-
-> Tecnologias: `Python` | `WebSocket API` | `Automação`
-
-##
 
 ## 📝 Contato  
 <div align="center">
